@@ -5,11 +5,17 @@ My nationality is Japan. So I would like to introduce about me in Japanese.
 
 ### こんにちは
 大学時代は化学を専攻していたのに気がついたらAI触る経営者になっていた者です。
+
 自己紹介を充実させようと思いましたが、あんまり自己紹介得意ではありませんでした。
+
 今度飲みに行きましょう。
+
 Kaggleは遥か昔に銀メダルだけ取りました。
+
 弊社(Panta Rhei Ltd. https://www.pantarhei.co.jp) はGoogle for StartupsのAI企業に認定されています。
+
 私もびっくりしました。
+
 
 # SNSや連絡チャネル
 - 🦍email ... kazu@pantarhei.co
