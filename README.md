@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 I'm Kazu, Panta Rhei Ltd. CEO.
 
@@ -11,6 +12,8 @@ My nationality is Japan. So I would like to introduce about me in Japanese.
 今度飲みに行きましょう。
 
 Kaggleは遥か昔に銀メダルだけ取りました。
+
+<img width="4800" height="2960" alt="Kazu Tanaka - 2019 Data Science Bowl" src="https://github.com/user-attachments/assets/08bb1d6b-3ec4-4c08-a31a-b085f38c92fd" />
 
 弊社(Panta Rhei Ltd. https://www.pantarhei.co.jp) はGoogle for StartupsのAI企業に認定されています。
 
