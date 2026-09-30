@@ -21,12 +21,13 @@ Kaggleは遥か昔に銀メダルだけ取りました。
 
 
 # SNSや連絡チャネル
-- 🦍email ... kazu@pantarhei.co
-- 🐅X(Twitter) ... @sotsogprinciple
-- 🐗facebook ... amuzakakanat
+- 🦍email ... kazuma.tanaka@pantarhei.co
+- 🐅X ... [@_pandasista](https://x.com/_pandasista)
+- 🐗facebook ... [amuzakakanat](https://www.facebook.com/amuzakakanat)
 - 🐕linkedin ... https://www.linkedin.com/in/kazuma-tanaka-0458181a0/
 - 🐈Wantedly ... https://www.wantedly.com/id/kazuma_tanaka_h
-- 🐇Eight ... underprocessing
+- 🐿YOUTRUST ... https://youtrust.jp/users/6cfa29918b0ed017a4445d0fedf73cbf
+- 🐇Eight ... https://8card.net/virtual_cards/NtRLe4hr9qTNrPQFvl7OJA
 <!--
 **realmadridmarcelo/realmadridmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
